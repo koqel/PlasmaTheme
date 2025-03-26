@@ -1,0 +1,43 @@
+/* Configuration variables for the theme - Matching main site style */
+:root {
+    /* Color scheme - Modern dark theme with vibrant accent */
+    --bg-color: #0f172a;
+    --bg-secondary: #1e293b;
+    --text-color: #e2e8f0;
+    --text-secondary: #94a3b8;
+    --title-color: #f8fafc;
+    --subtitle-color: #94a3b8;
+    --accent-color: #3b82f6;
+    --accent-color-rgb: 59, 130, 246;
+    --accent-dark: #1d4ed8;
+    --success-color: #10b981;
+    --warning-color: #f59e0b;
+    --alert-color: #ef4444;
+    --slow-color: #f97316;
+    --maintenance-color: #8b5cf6;
+    --status-update-color: #06b6d4;
+
+    /* Spacing variables */
+    --spacing-xs: 8px;
+    --spacing-sm: 16px;
+    --spacing-md: 24px;
+    --spacing-lg: 32px;
+    --card-padding: 2rem;
+
+    /* Shadows */
+    --shadow-sm: 0 4px 6px rgba(0, 0, 0, 0.1);
+    --shadow-md: 0 10px 15px -3px rgba(0, 0, 0, 0.2);
+    --shadow-lg: 0 20px 25px -5px rgba(0, 0, 0, 0.2);
+
+    /* Border radius */
+    --border-radius: 12px;
+
+    /* Animation durations */
+    --animation-slow: 0.7s;
+    --animation-normal: 0.4s;
+    --animation-fast: 0.2s;
+
+    /* Transitions */
+    --transition-normal: all 0.3s ease;
+    --transition-bounce: all 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
