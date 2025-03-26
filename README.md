@@ -2,6 +2,9 @@
 Plasma Theme for lyrdy/uptime
 
 
+## Demo
+https://status.plasma.services/
+
 ## How to configure
 * Open index.html:
   - Change the title on line 9 to the title of your status page
